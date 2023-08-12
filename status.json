@@ -30,7 +30,9 @@
       "am_vi": "",
       "am_na": "",
 
-      "sinf" : "data/sweetcameraselfie/inf",
+      "inf" : "data/sweetcameraselfie/inf",
+
+      "app_id" : "ca-app-pub-3940256099942544~3347510000",
 
       "interval": 45000,
       "ads_list": [""]
