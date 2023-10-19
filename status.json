@@ -12,6 +12,19 @@
 
       "ads_list": ["am"]
     },
+    "sweet.selfie.filters.snap": {
+      "is_id": "",
+
+      "am_ba": "",
+      "am_in": "ca-app-pub-1699387407587127/7593341609",
+      "am_na": "",
+      
+      "app_id": "ca-app-pub-1699387407587127~8906423276",
+
+      "interval": 45000,
+
+      "ads_list": ["am"]
+    },
   "com.beauty.photo.debug": {
       "is_id": "",
       "am_ba": "",
