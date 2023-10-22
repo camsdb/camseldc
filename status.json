@@ -1,6 +1,6 @@
 [{
     "sweet.camera.selfie": {
-      "is_id": "",
+      "is_id": "1c254c26d",
 
       "am_ba": "",
       "am_in": "ca-app-pub-1699387407587127/9767536237",
@@ -10,10 +10,10 @@
 
       "interval": 45000,
 
-      "ads_list": ["am"]
+      "ads_list": ["am", "is"]
     },
     "sweet.selfie.filters.snap": {
-      "is_id": "",
+      "is_id": "1c255357d",
 
       "am_ba": "",
       "am_in": "ca-app-pub-1699387407587127/7593341609",
@@ -23,7 +23,7 @@
 
       "interval": 45000,
 
-      "ads_list": ["am"]
+      "ads_list": ["am", "is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
