@@ -36,6 +36,8 @@
       
       "app_id": "ca-app-pub-4576769423328380~5044478549",
 
+      "inf" : "data/filtersnap/inf",
+
       "interval": 60000,
 
       "ads_list": ["am", "is"]
