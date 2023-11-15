@@ -10,6 +10,8 @@
 
       "interval": 60000,
 
+      "inf" : "data/sweetcameraselfie/inf",
+
       "ads_list": ["am", "is"]
     },
     "neon.horns.devil.camera": {
