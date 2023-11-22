@@ -3,16 +3,16 @@
       "is_id": "1c254c26d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-4576769423328380/5675033930",
+      "am_in": "",
       "am_na": "",
       
-      "app_id": "ca-app-pub-4576769423328380~8057654690",
+      "app_id": "",
 
       "interval": 60000,
 
       "inf" : "data/sweetcameraselfie/inf",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "neon.horns.devil.camera": {
       "is_id": "",
@@ -31,16 +31,16 @@
       "is_id": "1c255357d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-4576769423328380/6848514804",
+      "am_in": "",
       "am_na": "",
       
-      "app_id": "ca-app-pub-4576769423328380~5044478549",
+      "app_id": "",
 
       "inf" : "data/filtersnap/inf",
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
