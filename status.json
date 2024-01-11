@@ -8,7 +8,7 @@
       
       "app_id": "ca-app-pub-2072952182696305~5556332986",
 
-      "interval": 45000,
+      "interval": 60000,
 
       "inf" : "data/sweetcameraselfie/inf",
 
@@ -23,7 +23,7 @@
       
       "app_id": "ca-app-pub-2072952182696305~8322097127",
 
-      "interval": 45000,
+      "interval": 60000,
 
       "ads_list": ["am"]
     },
@@ -38,7 +38,7 @@
 
       "inf" : "data/filtersnap/inf",
 
-      "interval": 45000,
+      "interval": 60000,
 
       "ads_list": ["am", "is"]
     },
