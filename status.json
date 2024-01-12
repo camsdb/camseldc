@@ -15,7 +15,7 @@
       "ads_list": ["am", "is"]
     },
     "neon.horns.devil.camera": {
-      "is_id": "",
+      "is_id": "1d2f4462d",
 
       "am_ba": "",
       "am_in": "ca-app-pub-2072952182696305/3498496927",
@@ -25,10 +25,10 @@
 
       "interval": 60000,
 
-      "ads_list": ["am"]
+      "ads_list": ["am", "is"]
     },
     "sweet.selfie.filters.snap": {
-      "is_id": "1c255357d",
+      "is_id": "1d2f3d31d",
 
       "am_ba": "",
       "am_in": "ca-app-pub-2072952182696305/6476067958",
