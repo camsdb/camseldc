@@ -12,7 +12,7 @@
 
       "inf" : "data/sweetcameraselfie/inf",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is", "am"]
     },
     "neon.horns.devil.camera": {
       "is_id": "1d2f4462d",
@@ -25,7 +25,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is", "am"]
     },
     "sweet.selfie.filters.snap": {
       "is_id": "1d2f3d31d",
@@ -40,7 +40,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is", "am"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
