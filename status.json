@@ -12,16 +12,16 @@
 
       "inf" : "data/sweetcameraselfie/inf",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is", "am"]
     },
     "neon.horns.devil.camera": {
       "is_id": "1d2f4462d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-1074124500797085/2286633784",
+      "am_in": "ca-app-pub-2116319381117782/9327167353",
       "am_na": "",
       
-      "app_id": "ca-app-pub-1074124500797085~8440978597",
+      "app_id": "ca-app-pub-2116319381117782~9917042914",
 
       "interval": 60000,
 
@@ -40,7 +40,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is", "am"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
