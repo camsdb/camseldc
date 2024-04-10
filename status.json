@@ -3,16 +3,16 @@
       "is_id": "1d289c05d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-1074124500797085/2145612103",
+      "am_in": "ca-app-pub-2072952182696305/1427569997",
       "am_na": "",
       
-      "app_id": "ca-app-pub-1074124500797085~8824121976",
+      "app_id": "ca-app-pub-2072952182696305~5556332986",
 
       "interval": 60000,
 
       "inf" : "data/sweetcameraselfie/inf",
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["am", "is"]
     },
     "neon.horns.devil.camera": {
       "is_id": "1d2f4462d",
@@ -31,16 +31,16 @@
       "is_id": "1d2f3d31d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-1074124500797085/8852042134",
+      "am_in": "ca-app-pub-2072952182696305/7967576545",
       "am_na": "",
       
-      "app_id": "ca-app-pub-1074124500797085~4960898586",
+      "app_id": "ca-app-pub-2072952182696305~9304006308",
 
       "inf" : "data/filtersnap/inf",
 
       "interval": 60000,
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["am", "is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
