@@ -18,14 +18,14 @@
       "is_id": "1d2f4462d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-6375132035172052/4539772318",
+      "am_in": "",
       "am_na": "",
       
-      "app_id": "ca-app-pub-6375132035172052~9033519271",
+      "app_id": "",
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "sweet.selfie.filters.snap": {
       "is_id": "1d2f3d31d",
