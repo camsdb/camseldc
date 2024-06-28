@@ -1,5 +1,5 @@
 [{
-    "sweet.camera.selfie": {
+    "sweet.camera.selfie.bk": {
       "is_id": "1d289c05d",
 
       "am_ba": "",
@@ -7,6 +7,21 @@
       "am_na": "",
       
       "app_id": "ca-app-pub-4701017285343645~7451123063",
+
+      "interval": 60000,
+
+      "inf" : "data/sweetcameraselfie/inf",
+
+      "ads_list": ["am", "is"]
+    },
+    "sweet.camera.selfie": {
+      "is_id": "1d289c05d",
+
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
+      
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
 
       "interval": 60000,
 
