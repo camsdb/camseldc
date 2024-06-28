@@ -1,5 +1,5 @@
 [{
-    "sweet.camera.selfie.bk": {
+    "sweet.camera.selfie": {
       "is_id": "1d289c05d",
 
       "am_ba": "",
@@ -14,7 +14,7 @@
 
       "ads_list": ["am", "is"]
     },
-    "sweet.camera.selfie": {
+    "sweet.camera.selfie.test": {
       "is_id": "1d289c05d",
 
       "am_ba": "ca-app-pub-3940256099942544/6300978111",
