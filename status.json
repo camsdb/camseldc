@@ -33,14 +33,14 @@
       "is_id": "1d2f4462d",
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-7208380511453512/8240432881",
       "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-7208380511453512~8744448468",
 
       "interval": 60000,
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "neon.horns.devil.camera": {
       "is_id": "1d2f4462d",
