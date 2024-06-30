@@ -29,7 +29,7 @@
 
       "ads_list": ["am", "is"]
     },
-    "neon.horns.devil.camera.bk": {
+    "neon.horns.devil.camera": {
       "is_id": "1d2f4462d",
 
       "am_ba": "",
@@ -42,7 +42,7 @@
 
       "ads_list": ["am", "is"]
     },
-    "neon.horns.devil.camera": {
+    "neon.horns.devil.camera.test": {
       "is_id": "1d2f4462d",
 
       "am_ba": "ca-app-pub-3940256099942544/6300978111",
