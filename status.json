@@ -32,12 +32,6 @@
     "neon.horns.devil.camera": {
       "is_id": "1d2f4462d",
 
-      "am_ba": "ca-app-pub-8590760453433291/5636347398",
-      "am_in": "ca-app-pub-8590760453433291/4880539626",
-      "am_na": "ca-app-pub-8590760453433291/4323265724",
-      
-      "app_id": "ca-app-pub-8590760453433291~7168920917",
-
       "interval": 60000,
 
       "ads_list": ["am", "is"]
@@ -58,11 +52,12 @@
     "sweet.selfie.filters.snap": {
       "is_id": "1d2f3d31d",
 
-      "am_ba": "ca-app-pub-2158148438175773/4198099061",
-      "am_in": "ca-app-pub-2158148438175773/3700800841",
-      "am_na": "",
+
+      "am_ba": "ca-app-pub-8590760453433291/5636347398",
+      "am_in": "ca-app-pub-8590760453433291/4880539626",
+      "am_na": "ca-app-pub-8590760453433291/4323265724",
       
-      "app_id": "ca-app-pub-2158148438175773~3898716164",
+      "app_id": "ca-app-pub-8590760453433291~7168920917",
 
       "inf" : "data/filtersnap/inf",
 
