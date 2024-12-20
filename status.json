@@ -34,7 +34,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": [ "is"]
     },
     "neon.horns.devil.camera.test": {
       "is_id": "1d2f4462d",
