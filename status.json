@@ -52,11 +52,11 @@
     "sweet.selfie.filters.snap": {
       "is_id": "1d2f3d31d",
 
-      "am_ba": "ca-app-pub-2506685647731758/4400089673",
-      "am_in": "ca-app-pub-2506685647731758/8534775809",
-      "am_na": "ca-app-pub-2506685647731758/4128890260",
+      "am_ba": "",
+      "am_in": "ca-app-pub-7861239603828228/9545325320",
+      "am_na": "",
       
-      "app_id": "ca-app-pub-2506685647731758~5027038966",
+      "app_id": "ca-app-pub-7861239603828228~8225307127",
 
       "inf" : "data/filtersnap/inf",
 
@@ -64,7 +64,7 @@
 
       "ads_list": ["am", "is"]
     },
-     "sweet.selfie.filters.snap.s9ultra": {
+     "sweet.selfie.filters.snap.s9ultra9xstudio": {
       "is_id": "1d2f3d31d",
 
       "am_ba": "ca-app-pub-8590760453433291/5636347398",
