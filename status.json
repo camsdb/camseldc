@@ -53,14 +53,14 @@
       "is_id": "1d2f3d31d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-3233442975694655/5691604550",
+      "am_in": "ca-app-pub-1174795334907565/4863093254",
       "am_na": "",
       
-      "app_id": "ca-app-pub-3233442975694655~5067235327",
+      "app_id": "ca-app-pub-1174795334907565~9974721652",
 
       "inf" : "data/filtersnap/inf",
 
-      "interval": 60000,
+      "interval": 45000,
 
       "ads_list": ["am", "is"]
     },
