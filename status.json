@@ -53,16 +53,16 @@
       "is_id": "1d2f3d31d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-5757796982564107/4579211435",
+      "am_in": "ca-app-pub-5990839505934941/2155200716",
       "am_na": "",
       
-      "app_id": "ca-app-pub-5757796982564107~1711364468",
+      "app_id": "ca-app-pub-5990839505934941~6551695001",
 
       "inf" : "data/filtersnap/inf",
 
       "interval": 50000,
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["am", "is"]
     },
      "sweet.selfie.filters.snap.s9ultra9xstudio": {
       "is_id": "1d2f3d31d",
