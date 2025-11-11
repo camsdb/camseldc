@@ -53,29 +53,14 @@
       "is_id": "1d2f3d31d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-8939817570774047/6961030175",
+      "am_in": "ca-app-pub-5990839505934941/2155200716",
       "am_na": "",
       
-      "app_id": "ca-app-pub-8939817570774047~2231447670",
+      "app_id": "ca-app-pub-5990839505934941~6551695001",
 
       "inf" : "data/filtersnap/inf",
 
       "interval": 50000,
-
-      "ads_list": ["am", "is"]
-    },
-     "sweet.selfie.filters.snap.s9ultra9xstudio": {
-      "is_id": "1d2f3d31d",
-
-      "am_ba": "ca-app-pub-8590760453433291/5636347398",
-      "am_in": "ca-app-pub-8590760453433291/4880539626",
-      "am_na": "ca-app-pub-8590760453433291/4323265724",
-      
-      "app_id": "ca-app-pub-8590760453433291~7168920917",
-
-      "inf" : "data/filtersnap/inf",
-
-      "interval": 60000,
 
       "ads_list": ["am", "is"]
     },
