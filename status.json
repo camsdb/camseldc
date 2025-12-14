@@ -53,16 +53,16 @@
       "is_id": "1d2f3d31d",
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1174795334907565/6557201223",
       "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-1174795334907565~9974721652",
 
       "inf" : "data/filtersnap/inf",
 
       "interval": 50000,
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
