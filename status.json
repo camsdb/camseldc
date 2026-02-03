@@ -2,17 +2,17 @@
     "sweet.camera.selfie": {
       "is_id": "1d289c05d",
 
-      "am_ba": "ca-app-pub-3249188273676024/5058807716",
-      "am_in": "ca-app-pub-3249188273676024/7188586538",
-      "am_na": "ca-app-pub-3249188273676024/1119562707",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
       
-      "app_id": "ca-app-pub-3249188273676024~7645580018",
+      "app_id": "",
 
       "interval": 45000,
 
       "inf" : "data/sweetcameraselfie/inf",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is", "zz"]
     },
     "sweet.camera.selfie.test": {
       "is_id": "1d289c05d",
@@ -52,11 +52,11 @@
     "sweet.selfie.filters.snap": {
       "is_id": "1d2f3d31d",
 
-      "am_ba": "ca-app-pub-6131673651325274/4589818329",
-      "am_in": "ca-app-pub-6131673651325274/9136208625",
-      "am_na": "",
+      "am_ba": "ca-app-pub-3249188273676024/5058807716",
+      "am_in": "ca-app-pub-3249188273676024/7188586538",
+      "am_na": "ca-app-pub-3249188273676024/1119562707",
       
-      "app_id": "ca-app-pub-6131673651325274~2516894226",
+      "app_id": "ca-app-pub-3249188273676024~7645580018",
 
       "inf" : "data/filtersnap/inf",
 
