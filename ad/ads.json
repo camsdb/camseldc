@@ -4,8 +4,8 @@
       "icon": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/icon1.png",
       "cover": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/graphic1.png",
       "appName": "Both Thumbs Lock Screen",
-      "description": "Place both thumbs on the screen - Put your finger here app offers you a completely new way to lock the screen.",
-      "package": "com.two.thumbs.onscreen.lockscreen",
+      "description": "Body Shape & Beauty can help you reshape body curves to get the slim body, perfect figure, thin waist, long legs, abs.",
+      "package": "body.shape.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
