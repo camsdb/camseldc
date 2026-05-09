@@ -59,6 +59,7 @@
       "app_id": "ca-app-pub-3249188273676024~7645580018",
 
       "inf" : "data/filtersnap/inf",
+      "show_my_ad": true,
 
       "interval": 50000,
 
